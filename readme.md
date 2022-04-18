@@ -1,3 +1,12 @@
+** Regarding project
+1. core is the main app responsible for all the endpoints
+2. core.models contains the two model used
+3. Django and DRF used in the project
+
+
+
+
+
 ** How to get Started for development
 
 1. Create a python 3.6/3.7 venv
